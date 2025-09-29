@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+我的项目是作品，不是产品，除非我在它的自述文件显式标记"它是公开的 可贡献的"，否则，我的项目都处于可使用可商业可Fork可Issue，但不可贡献
+你可以看、可以改、可以建，但请不要提交 PR。
+我不是在拒绝你，我是在保护我。
+这不是开源的标准做法，但这是我选择的方式。
 <!--
 **JanePHPDev/JanePHPDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
