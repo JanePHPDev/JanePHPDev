@@ -6,4 +6,4 @@
 
 **My projects are works, not products.  
 Unless I explicitly state in the README that “it is public and open to contributions,” they remain in a state where they are available, commercially usable, forkable, and issuable—but not open to contributions.  
-Anyone may use, modify, or distribute my projects in any way—provided they comply with the corresponding open-source license—but please do not submit pull requests. This is not standard open-source practice, but it is the way I choose.
+Anyone may use, modify, or distribute my projects in any way—provided they comply with the corresponding open-source license—but please do not submit pull requests. This is not standard open-source practice, but it is the way I choose.**
