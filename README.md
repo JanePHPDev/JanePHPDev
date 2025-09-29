@@ -1,4 +1,4 @@
-<img src="https://skillicons.dev/icons?i=html,css,js,c,php,nginx,python,golang,aws,gcp,azure,vue,nodejs,git,docker,vim&theme=light&perline=8"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,vscode,php,nginx,python,golang,aws,gcp,azure,vue,nodejs,git,docker,vim&theme=light&perline=8"/>
 
 **我的项目是作品，不是产品。  
 除非我在自述文件里明确写下“它是公开的，可贡献的”，否则，它们始终处于：可用、可商用、可Fork、可Issue，但不可贡献的状态。  
