@@ -1,6 +1,10 @@
 # PHP学习资料
 
-这个仓库是我自己准备了，最近准备就业，然后打算系统性的重温一遍PHP，然后这里就合集了一些我重温PHP需要用到的资料、网站，可能还会有一些我的笔记啊什么的。
+这个仓库是我自己准备的，最近准备就业，然后打算系统性的重温一遍PHP。这里汇集了一些我重温PHP需要用到的资料、网站，可能还会有一些我的笔记什么的。这个仓库特别适合PHP初学者，从基础知识入手，逐步深入。如果你刚开始学习PHP，这里有详细的解释、教程推荐和简单项目实践，帮助你快速上手。学习PHP可以从理解其基本概念开始，然后通过实践小项目来巩固知识。建议初学者先安装一个本地环境如XAMPP或MAMP，然后跟着教程一步步Coding。坚持练习是关键！
+
+## 什么是PHP
+
+PHP（PHP: Hypertext Preprocessor）是一种广泛使用的开源通用脚本语言，特别适合Web开发，可以嵌入到HTML中。它最初作为服务器端脚本语言开发，在服务器上执行代码以生成发送到客户端的HTML，从而对用户隐藏代码细节。PHP对初学者来说简单易学，可以快速创建脚本，但也为专业人士提供高级功能，如支持各种数据库、使用Perl兼容的正则表达式进行文本处理，以及输出图像或PDF等各种文件类型。PHP可以运行在多个操作系统上，包括Linux、Windows和macOS，并与Apache和IIS等Web服务器兼容。它支持过程式和面向对象编程，适合处理表单数据、生成动态内容以及命令行脚本等任务，对于命令行任务，只需要PHP解析器。
 
 ## 网站汇集
 - PHP官网：[https://www.php.net/](https://www.php.net/)
@@ -30,8 +34,23 @@
 - LeetCode PHP 标签：[https://leetcode.com/tag/php](https://leetcode.com/tag/php)
 - 牛客网《PHP 工程师笔试面经》专栏：[https://www.nowcoder.com/discuss?type=7&order=0](https://www.nowcoder.com/discuss?type=7&order=0)
 - 7.88GB视频课程 链接:https://pan.baidu.com/s/1rQHiSo6c3uuoIQXbeFIyog 提取码:786h
+- Kinsta的27个PHP教程：[https://kinsta.com/blog/php-tutorials/](https://kinsta.com/blog/php-tutorials/) 
+- Learn PHP from Scratch（YouTube完整课程）：[https://www.youtube.com/watch?v=l4_Vn-sTBL8](https://www.youtube.com/watch?v=l4_Vn-sTBL8) 
+- Hackr.io推荐的PHP教程：[https://hackr.io/tutorials/learn-php](https://hackr.io/tutorials/learn-php) 
+- PHP Crash Course（YouTube）：[https://www.youtube.com/watch?v=ny4-hGENWVk](https://www.youtube.com/watch?v=ny4-hGENWVk) 
+- Learn-PHP.org：[https://www.learn-php.org/](https://www.learn-php.org/) 
+- PHP 101 by Zend Developer Zone：[https://devzone.zend.com/php101/](https://devzone.zend.com/php101/) 
+- The 2025 PHP Developer Roadmap：[https://medium.com/javarevisited/the-2025-php-developer-roadmap-d43b489da7d8](https://medium.com/javarevisited/the-2025-php-developer-roadmap-d43b489da7d8) 
+- FreeCodeCamp PHP Tutorial：[https://www.freecodecamp.org/news/php-tutorial-for-beginners/](https://www.freecodecamp.org/news/php-tutorial-for-beginners/) 
+- C语言中文网PHP教程：[https://c.biancheng.net/php/](https://c.biancheng.net/php/)
+- 黑马程序员PHP教程：[https://www.itheima.com/taught/taughtphp.html](https://www.itheima.com/taught/taughtphp.html)
+- PHP完全自学手册：[https://edu.aliyun.com/course/313721/](https://edu.aliyun.com/course/313721/)
+- PHP中文手册：[https://www.php.net/manual/zh/](https://www.php.net/manual/zh/)
+- CSDN 27个最佳PHP学习教程资源：[https://blog.csdn.net/weixin_44026962/article/details/135215589](https://blog.csdn.net/weixin_44026962/article/details/135215589)
 
 ## PHP项目推荐
+
+这些项目推荐特别针对PHP初学者，包括一些简单的开源项目，可以克隆下来修改和学习。通过实践这些项目，你可以掌握PHP的基本语法、数据库交互和Web开发基础。建议从简单如TODO列表或笔记管理系统开始，逐步尝试框架项目。
 
 - ThinkPHP：[https://github.com/top-think/framework](https://github.com/top-think/framework)
 - Laravel：[https://github.com/laravel/laravel](https://github.com/laravel/laravel)  
@@ -86,10 +105,20 @@
 - Laravel Excel：[https://github.com/SpartnerNL/Laravel-Excel](https://github.com/SpartnerNL/Laravel-Excel)  
 - Clean Code PHP：[https://github.com/piotrplenik/clean-code-php](https://github.com/piotrplenik/clean-code-php)
 - slim：[https://github.com/slimphp/Slim](https://github.com/slimphp/Slim)
+- Beginner PHP Projects：[https://github.com/S4F4Y4T/Beginner-PHP-Projects](https://github.com/S4F4Y4T/Beginner-PHP-Projects) 
+- PHP Basics：[https://github.com/learning-zone/php-basics](https://github.com/learning-zone/php-basics) 
+- Notes Management System：[https://github.com/topics/php-project](https://github.com/topics/php-project) 
+- PHP CRUD API：[https://github.com/mevdschee/php-crud-api](https://github.com/mevdschee/php-crud-api) 
+- Awesome PHP：[https://github.com/ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) 
+- Medical Appointment Booking：[https://github.com/trending/php](https://github.com/trending/php) 
+- Awesome for Beginners：[https://github.com/MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) 
+- Awesome PHP 中文版：[https://github.com/jobbole/awesome-php-cn](https://github.com/jobbole/awesome-php-cn)
+- Book-Learn-PHP：[https://github.com/iOShuyang/Book-Learn-PHP](https://github.com/iOShuyang/Book-Learn-PHP)
 
 ## 学习路线
 ![dbb5938151d60b88.png](https://cdn.mengze.vip/gh/JanePHPDev/Blog-Static-Resource@main/images/dbb5938151d60b88.png)
 
+对于初学者，建议先学习PHP基础语法（如变量、循环、函数），然后了解HTML表单和服务器交互，再引入数据库如MySQL。之后尝试框架如Laravel来构建完整应用。每天花1-2小时练习代码，结合视频教程效果更好。遇到问题可以去Stack Overflow或PHP论坛求助。
 
 ## Github上的开源面试题 & 刷题集
 - PHP 面试题集（含答案）：
@@ -105,3 +134,5 @@
     - [zhaopan/DevStandard](https://github.com/zhaopan/DevStandard)
     - [ucdo/problem – PHP](https://github.com/ucdo/problem/tree/main/PHP)
     - [aa24615/phpIQ](https://github.com/aa24615/phpIQ)
+
+此外，初学者可以从LeetCode的PHP标签开始刷简单题，熟悉算法思维。面试前多看这些题集，模拟回答。
