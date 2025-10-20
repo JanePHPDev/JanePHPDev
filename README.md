@@ -1,4 +1,4 @@
-<img src="https://skillicons.dev/icons?i=html,css,js,vscode,php,apache2,python,golang,aws,gcp,azure,vue,nodejs,git,docker,vim&theme=light&perline=8"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,vscode,php,postgresql,python,golang,aws,gcp,azure,vue,nodejs,git,docker,vim&theme=light&perline=8"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JanePHPDev&theme=github_dark" />
 
