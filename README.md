@@ -1,6 +1,6 @@
+<p align="center">
 重構了超過60%的程式碼庫，並持續優化了超過兩個月;NingZeLogs是我迄今為止最引以為傲的作品之一。
 
-<p align="center">
   <a href="https://mclogs.lemwood.icu/#/"><b>🚀 現在就試試</b></a>
 </p>
 
