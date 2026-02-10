@@ -1,7 +1,7 @@
 "一个提供 Headless API 的现代化 Minecraft 服务器日志分析平台"
 https://github.com/NingZeStudio/McLogs-Next-API
 
-McLogs-Next-API的官方开源Web UI实现方案，基于Vue+Typesctipt+TailwindCSS。
+"McLogs-Next-API的官方开源Web UI实现方案，基于Vue3"
 https://github.com/NingZeStudio/McLogs-Next-UI
 
 ---
