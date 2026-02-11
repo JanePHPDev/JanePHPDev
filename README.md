@@ -6,7 +6,7 @@
 
 ---
 
-## Project
+## Flagship Project
 
 "一个提供 Headless API 的现代化 Minecraft 服务器日志分析平台"  
 https://github.com/NingZeStudio/McLogs-Next-API
@@ -16,6 +16,6 @@ https://github.com/NingZeStudio/McLogs-Next-UI
 
 ---
 
-## Skills
+## Technologies Mastered
 
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,typescript,php,vue,nuxtjs,laravel,vuetify,tailwindcss,vite,vscode,phpstorm,git,github,mysql,docker,nginx,linux,debian,vercel,netlify,githubactions&theme=light&perline=12"/>
