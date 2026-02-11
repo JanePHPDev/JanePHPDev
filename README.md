@@ -4,9 +4,9 @@
   <p>PHP / Vue 全栈开发者 | Minecraft 生态贡献者</p>
 </div>
 
-![Vue.js](https://img.shields.io/badge/Vue-3-green)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
-![PHP](https://img.shields.io/badge/PHP-8.5-blue) 
+---
+
+## Project
 
 "一个提供 Headless API 的现代化 Minecraft 服务器日志分析平台"  
 https://github.com/NingZeStudio/McLogs-Next-API
@@ -15,5 +15,7 @@ https://github.com/NingZeStudio/McLogs-Next-API
 https://github.com/NingZeStudio/McLogs-Next-UI
 
 ---
+
+## Skills
 
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,typescript,php,vue,nuxtjs,laravel,vuetify,tailwindcss,vite,vscode,phpstorm,git,github,mysql,docker,nginx,linux,debian,vercel,netlify,githubactions&theme=light&perline=12"/>
