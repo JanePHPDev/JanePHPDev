@@ -7,5 +7,3 @@ https://github.com/NingZeStudio/McLogs-Next-UI
 ---
 
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,typescript,php,vue,nuxtjs,laravel,vuetify,tailwindcss,vite,vscode,phpstorm,git,github,mysql,docker,nginx,linux,debian,vercel,netlify,githubactions&theme=light&perline=12"/>
-
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JanePHPDev&theme=dark&hide_border=true" />
