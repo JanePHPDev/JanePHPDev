@@ -18,4 +18,4 @@ https://github.com/NingZeStudio/McLogs-Next-UI
 
 ## Technologies Mastered
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,typescript,php,vue,nuxtjs,laravel,vuetify,tailwindcss,vite,vscode,phpstorm,git,github,mysql,docker,nginx,linux,debian,vercel,netlify,githubactions&theme=light&perline=12"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,vue,nuxtjs,vuetify,tailwindcss,vite,nodejs,php,laravel,mysql,git,github,githubactions,vscode,phpstorm,docker,nginx,linux,debian,vercel,netlify&theme=light&perline=12"/>
