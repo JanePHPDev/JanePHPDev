@@ -2,7 +2,6 @@
   <img src="https://cdn.zeinklab.com/myfile/images/de749d78db8cc284.jpg" width="100" style="border-radius:50%">
   <h3>Hi, I'm  👋</h3>
   <p>整合包创作者 | Java程序员</p>
-</div>
 
 ---
 
@@ -16,3 +15,5 @@
 ## Technologies Mastered
 
 <img src="https://skillicons.dev/icons?i=html,css,js,java,bash,github,git,idea,linux,arch&theme=light&perline=5"/>
+
+</div>
