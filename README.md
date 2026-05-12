@@ -7,7 +7,7 @@
 
 ## Flagship Project
 
-给帆写的整合包更新日志的json的快捷生成工具
+给帆写的整合包更新日志的json的快捷生成工具  
 [https://github.com/fanziyun/fast-update-json](https://github.com/fanziyun/fast-update-json)
 
 ---
