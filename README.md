@@ -14,6 +14,6 @@
 
 ## Technologies Mastered
 
-<img src="https://skills.syvixor.com/api/icons?i=html,css,js,java,bash,github,git,idea,linux,arch,windows,ps,chatgpt,7zip,batch,android,androidstudio,gradle,fabric&theme=light&perline=8"/>
+<img src="https://skills.syvixor.com/api/icons?i=html,css,js,java,bash,github,git,idea,linux,arch,windows,ps,chatgpt,7zip,batch,android,androidstudio,gradle,fabricmc&theme=light&perline=8"/>
 
 </div>
