@@ -14,6 +14,6 @@
 
 ## Technologies Mastered
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,bash,github,git,idea,linux,arch,windows,ps,grable,moven&theme=light&perline=8"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,bash,github,git,idea,linux,arch,windows,ps,grable&theme=light&perline=8"/>
 
 </div>
